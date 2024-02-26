@@ -40,3 +40,11 @@ Healthcare and Wearables: In healthcare applications, in-X subnetworks support r
 medical device integration, and personalized healthcare delivery.
 Requirements include stringent security, privacy safeguards, and compatibility with medical regulations.
 
+
+Despite the promise of in-X subnetworks, challenges such as interference in 6G networks pose significant hurdles. 
+Mitigation strategies involve Power Control,spectrum management, beamforming techniques, and 
+advanced signal processing algorithms to minimize interference and optimize network performance. In the later part of the this,
+I will start to discuss about Power Control in Wireless system and also why it is essential?
+
+
+
