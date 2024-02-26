@@ -1,4 +1,4 @@
-# X-Subnetworks_all_about_it
+# X-Subnetworks and power control for Interference Management_all_about_it
 Here I will write step by step about X-Subnetworks definition, why it is necessary and some use cases..........
 
 
