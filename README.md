@@ -2,7 +2,7 @@
 Here I will write step by step about X-Subnetworks definition, why it is necessary and some use cases..........
 
 
-X-Subnetworks:
+in-X Subnetworks:
 The lastest surge in wireless communication marks the transition from the Internet of Things (IoT)
 to the Internet of Everything (IoE), where objects, processes, and people interconnect.The aspiration to achive Internet of Everything(IoE)
 necessities a trnasition to the 6th Generation Network as the capabilities of the 5th generation network are insufficient to meet the stringent 
