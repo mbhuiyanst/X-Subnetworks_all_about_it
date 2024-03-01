@@ -1,5 +1,5 @@
 # In-X Subnetworks and power control for Interference Management_all_about_it
-Here I will write step by step about X-Subnetworks definition, why it is necessary and some use cases..........
+Here I will write step by step about in-X Subnetworks definition, why it is necessary and some use cases..........
 
 
 in-X Subnetworks:
